@@ -1,0 +1,23 @@
+{
+  "name": "next-site",
+  "version": "1.0.0",
+  "description": "Next site... let's remember how!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlord/next-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlord/next-site/issues"
+  },
+  "homepage": "https://github.com/jlord/next-site#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
