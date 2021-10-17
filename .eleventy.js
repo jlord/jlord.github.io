@@ -7,7 +7,7 @@ module.exports = function (eleventyConfig) {
     // TODO add pagination
     // Don't show drafts in post list 
     eleventyConfig.addCollection("posts", collection => {
-        return [...collection.getFilteredByGlob("./src/**/*.md")]
+        return [...collection.getFilteredByGlob("./src/posts/*.md")]
           .filter(p => !p.data.draft).reverse()
     })
 

@@ -1,7 +1,7 @@
 --- 
 layout: base.njk
-title: Page Two
-draft: true
+title: Colophon
+tags: pages
 ---
 
 It's the second page.

@@ -1,6 +1,7 @@
 --- 
 layout: base.njk
-title: PAGE One
+title: About
+tags: pages
 ---
 
 This is the first page.
