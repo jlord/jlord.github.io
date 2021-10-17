@@ -1,7 +1,7 @@
 --- 
 layout: base.njk
-title: Colophon
+title: About
 tags: pages
 ---
 
-It's the second page.
+This is an about page.

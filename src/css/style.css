@@ -1,5 +1,44 @@
-body {
-    background: #fff4ef;
-    color: #333;
-    font-family: sans-serif;
+x* {
+    box-sizing: border-box;
+  }
+  [hidden] {
+    display: none !important;
 }
+  
+  html {
+    --foreground:   #333;     /* text */
+    --background:   #fff4ef;  /* pink */
+    --primary:      #e1612d;  /* red */
+    --secondary:    #ffd13a;  /* yellow */
+    --muted:        #fde8e1;  /* also pink */
+    --spacing-s:    8px;
+    --spacing-m:    24px;
+    --spacing-l:    32px;
+    --spacing-xl:   48px;
+    --sans:         "Franklin Gothic Book", "Source Sans Pro", Helvetica, Arial, sans-serif;
+    --serif:        "Lora", Baskerville, Georgia, serif;
+    --mono:         "Source Code Pro", Monaco, Courier, monospace;
+}
+
+body {
+    font-family: var(--serif);
+    font-weight: 200;
+    margin: 2em;
+    background: var(--background);
+    color: var(--foreground);
+    line-height: 1.75;
+    max-width: 900px;
+}
+
+a:link,
+a:visited {
+  color: var(--foreground);
+  text-decoration-color: var(--foreground);
+  text-decoration-thickness: .125em;
+  text-underline-offset: 3px;
+  transition: background 0.2s linear;
+}
+
+a:hover {
+    background: var(--secondary) !important;
+  }

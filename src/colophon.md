@@ -1,7 +1,7 @@
 --- 
 layout: base.njk
-title: About
+title: Colophon
 tags: pages
 ---
 
-This is the first page.
+This is a colophon.
