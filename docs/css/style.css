@@ -42,3 +42,10 @@ a:visited {
 a:hover {
     background: var(--secondary) !important;
   }
+
+.meta-text {
+    font-size: 12px;
+    font-family: var(--mono), monospace;
+    color: var(--primary);
+    font-weight: 600;
+}
