@@ -4,7 +4,10 @@
   "description": "Next site... let's remember how!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "eleventy",
+    "deploy": "eleventy && http-server dist/",
+    "dev": "eleventy --serve",
+    "start": "npm run deploy"
   },
   "repository": {
     "type": "git",
