@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/jlord/next-site#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1"
+    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy-plugin-rss": "^1.0.7"
   }
 }

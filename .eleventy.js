@@ -4,6 +4,13 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./src/css/")
     eleventyConfig.addWatchTarget("./src/css/")
     eleventyConfig.addPlugin(pluginRss)
+
+    // Don't show drafts in posts    
+    eleventyConfig.addCollection("posts", collection => {
+        return [...collection.getFilteredByGlob("./src/**/*.md")]
+          .filter(p => !p.data.draft).reverse()
+    })
+
     return {
         dir: {
             input: "src",
