@@ -7,10 +7,10 @@ x* {
   
   html {
     --foreground:   #333;     /* text */
-    --background:   #fff4ef;  /* pink */
-    --primary:      #e1612d;  /* red */
-    --secondary:    #ffd13a;  /* yellow */
-    --muted:        #fde8e1;  /* also pink */
+    --background:   #EAE7DF;  /* grey */
+    --primary:      #1736b3;  /* blue */
+    --secondary:    #ffdb66;  /* yellow */
+    --muted:        #526099;  /* also pink */
     --spacing-s:    8px;
     --spacing-m:    24px;
     --spacing-l:    32px;
