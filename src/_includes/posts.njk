@@ -3,4 +3,4 @@ layout: base.njk
 ---
 {{ content | safe }}
 
-<small>This is a post page</small>
+<span class="meta-text"> Published on — {{ page.date.toDateString() }}</span>

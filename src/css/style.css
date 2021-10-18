@@ -49,3 +49,8 @@ a:hover {
     color: var(--primary);
     font-weight: 600;
 }
+
+footer {
+    margin: var(--spacing-xl) 0;
+    padding-top: var(--spacing-l);
+}
