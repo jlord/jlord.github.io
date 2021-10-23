@@ -30,6 +30,46 @@ body {
     max-width: 900px;
 }
 
+h1 {
+  display: inline-block;
+  font-size: 56px;
+  /* TODO scale size */
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin-top: var(--spacing-xl);
+  color: var(--foreground);
+}
+
+h2,
+h3,
+h4 {
+  font-family: var(--sans);
+}
+
+p {
+  margin-top: var(--spacing-l);
+  font-size: 16px;
+}
+
+ul.flush {
+  list-style-position: inside;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+ul > li,
+ol > li {
+  margin-bottom: var(--spacing-s);
+}
+
+ul.no-bullet {
+  list-style-type: none;
+}
+
 a:link,
 a:visited {
   color: var(--foreground);
@@ -53,4 +93,68 @@ a:hover {
 footer {
     margin: var(--spacing-xl) 0;
     padding-top: var(--spacing-l);
+}
+
+img {
+  /* background-color: var(--secondary); */
+  max-width: 100%;
+}
+
+/* Books */
+
+.center {
+  text-align: center;
+}
+
+.book-shelf-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-end;
+  align-content: space-around;
+}
+
+.book {
+  padding-right: 20px;
+  max-width: 134px;
+}
+
+.book img {
+}
+
+.book-list-container {
+  font-family: var(--sans);
+  font-weight: 100;
+  font-size: 14px;
+}
+
+.book-list-container td {
+  padding-right: 10px;
+}
+
+.book-list-container thead th {
+  border-bottom: 3px solid #333;
+  font-size: 20px;
+  text-align: left;
+  padding-right: 8px;
+}
+
+.book-list-container table {
+    counter-reset: rowNumber - 1;
+}
+
+.book-list-container table tr {
+    counter-increment: rowNumber;
+}
+
+.book-list-container td.table-row-number:before {
+    content: counter(rowNumber);
+    min-width: 1em;
+    margin-right: 0.5em;
+    text-align: right;
+    /* Copied from meta-text */
+    font-size: 12px;
+    font-family: var(--mono);
+    color: var(--primary);
+    font-weight: 600;
 }
