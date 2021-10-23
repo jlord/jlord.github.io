@@ -13,7 +13,7 @@ Hello, welcome to this real cool site.
 <h3>Writing</h3>
 
 {% for post in paginatedposts %}
-- [{{ post.data.title }}]({{ post.url }}) <span class="meta-text">DATE</span>
+- [{{ post.data.title }}]({{ post.url }}) <span class="meta-text">{{ post.date | readableMonth }}</span> 
 {%- endfor %}
 
 <small>
