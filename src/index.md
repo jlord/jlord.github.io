@@ -1,9 +1,9 @@
 --- 
-title: It's a cool weblog!
+title: Hello!
 layout: base.njk
 pagination:
   data: collections.posts
-  size: 2
+  size: 15
   alias: paginatedposts
 draft: true
 ---

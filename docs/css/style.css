@@ -100,6 +100,22 @@ img {
   max-width: 100%;
 }
 
+a img {
+  background: none !important;
+}
+
+figure {
+  margin: 0;
+}
+
+figcaption,
+.meta-text {
+  font-size: 12px;
+  font-family: var(--mono), monospace;
+  color: var(--primary);
+  font-weight: 600;
+}
+
 /* Books */
 
 .center {
