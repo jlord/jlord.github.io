@@ -7,9 +7,6 @@ pagination:
   alias: paginatedposts
 draft: true
 ---
-
-Hello, welcome to this real cool site.
-
 <h3>Writing</h3>
 
 {% for post in paginatedposts %}
