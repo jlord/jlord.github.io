@@ -122,20 +122,27 @@ figcaption,
   text-align: center;
 }
 
-.book-shelf-container {
+/* .book-shelf-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
   align-items: flex-end;
   align-content: space-around;
+} */
+
+ul.book-shelf-container  {
+  list-style: none;
+  max-width: 60vw;
+  margin: 2em auto;
+  padding: 0;
+  display: inline-grid;
+  grid-template: auto / repeat(auto-fill, 8em);
+  grid-gap: 1em;
+  align-items: end; 
 }
 
-.book {
-  padding-right: 20px;
+img.book {
   max-width: 134px;
-}
-
-.book img {
 }
 
 .book-list-container {
