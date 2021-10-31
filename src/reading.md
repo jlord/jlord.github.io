@@ -6,15 +6,13 @@ Books I read in 2021. See [here for 2019]({{ '/posts/2019-books' | url }}), [her
 
 <h3 id="book-shelf">2021 Shelf</h2>
 
-<div class="book-shelf-container">
+<ul class="book-shelf-container">
   {%- for book in current_books -%}
-  <div class="book">
-    <a href="{{ book.GoodreadsURL }}">
-      <img src="{{ book.CoverURL }}">
-    </a>
-  </div>
+    <li><a href="{{ book.GoodreadsURL }}">
+      <img class="book" src="{{ book.CoverURL }}">
+    </a></li>
   {%- endfor -%}
-</div>
+</ul>
 
 <h3 id="book-shelf">2021 List</h2>
 

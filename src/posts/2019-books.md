@@ -9,16 +9,13 @@ I set a goal of reading 12 books in 2019 and I read 19—how about that! There's
 See [here for 2021]({{ '/reading' | url }}), [here for 2020]({{ '/posts/2020-books' | url }})
 
 <h3 id="book-shelf">2019 Shelf</h2>
-<div class="book-shelf-container">
+<ul class="book-shelf-container">
   {%- for book in 2019Books -%}
-  <div class="book">
-    <a href="{{ book.GoodreadsURL }}">
-      <img src="{{ book.CoverURL }}">
-    </a>
-    <!-- <h3>{{ book.Title }}</h3> -->
-  </div>
+    <li><a href="{{ book.GoodreadsURL }}">
+      <img class="book" src="{{ book.CoverURL }}">
+    </a></li>
   {%- endfor -%}
-</div>
+</ul>
 
 ## Some Highlights
 
