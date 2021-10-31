@@ -1,0 +1,38 @@
+---
+layout: base.njk
+---
+
+{{ content | safe }}
+
+<h3 id="book-shelf">Shelf</h2>
+
+<ul class="book-shelf-container">
+  {%- for book in {{ dataset }} -%}
+    <li><a href="{{ book.GoodreadsURL }}">
+      <img class="book" src="{{ book.CoverURL }}">
+    </a></li>
+  {%- endfor -%}
+</ul>
+
+<h3 id="book-list">List</h2>
+
+<div class="book-list-container">
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th><th>Title</th><th>Author</th><th>Read</th><th>Category</th><th>Pages</th>
+      </tr>
+    </thead>
+    <tbody>
+      {%- for book in 2020Books -%}
+      <tr>
+        <td class="table-row-number"></td><td><a href="{{ book.GoodreadsURL }}">{{ book.Title }}</a></td><td>{{ book.Author }}</td><td>{{ book.Read }}</td><td>{{ book.Category }} <span class="meta-text">{{ book.SubCategory }}</span></td><td class="center">{{ book.Pages }}</td>
+      </tr>
+      {%- endfor -%}
+    </tbody>
+  </table>
+</div>
+
+
+
+
