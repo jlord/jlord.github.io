@@ -1,7 +1,7 @@
 ---
 layout: posts.njk
 title: 2019 Books
-date: 2019-31-12
+date: 2020-01-01
 ---
 
 I set a goal of reading 12 books in 2019 and I read 19—how about that! There's a [shelf view](#book-shelf), then some ramblings on what I liked, then a [list view](#book-list) and lastly, a [how-to](#how-to-books), if you want to make a book page, too.
