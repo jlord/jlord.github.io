@@ -1,5 +1,4 @@
 --- 
-layout: books.njk
 title: Books Test
 dataset: "2020Books"
 ---
