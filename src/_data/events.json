@@ -1,0 +1,157 @@
+[
+    {
+        "title": "JSConf Columbia",
+        "url": "https://jsconf.co/",
+        "details": "Medellín, Colombia, October 2019"
+    },
+    {
+        "title": "CSSConf EU",
+        "url": "http://2018.cssconf.eu/",
+        "details": "(Emcee) Berlin, Germany, May 2019"
+    },
+    {
+        "title": "JSConf Hawaii",
+        "url": "https://jsconfhi.com/",
+        "details": "Honolulu, February 2019"
+    },
+    {
+        "title": "JAMstack_conf",
+        "url": "https://jamstackconf.com",
+        "details": "SF, October 2018"
+    },
+    {
+        "title": "Write Speak Code",
+        "url": "http://www.writespeakcode.com/2018/",
+        "details": "(Workshop mentor) New York City, August 2018"
+    },
+    {
+        "title": "WebRebels",
+        "url": "http://https://webrebels.org",
+        "details": "(Emcee) Oslo, June 2018"
+    },
+    {
+        "title": "EmpireConf",
+        "url": "http://2017.empireconf.org",
+        "details": "(Emcee) New York, October 2017"
+    },
+    {
+        "title": "ColdFront Conf",
+        "url": "https://www.youtube.com/watch?v=XWyIN7DUJOk",
+        "details": "Copenhagen, September 2017"
+    },
+    {
+        "title": "Greater Than Code",
+        "url": "https://www.greaterthancode.com/podcast/040-fck-it-and-be-nice",
+        "details": "Podcast, July 2017"
+    },
+    {
+        "title": "CSSConf EU",
+        "url": "http://2017.cssconf.eu",
+        "details": "(Emcee) Berlin, Germany, May 2017"
+    },
+    {
+        "title": "Render Conf",
+        "url": "http://2017.render-conf.com",
+        "details": "Oxford, England, March, 2017"
+    },
+    {
+        "title": "JSConf Australia",
+        "url": "http://2016.jsconfau.com/interviews/jessica-lord",
+        "details": "Melbourne, Australia, December, 2016"
+    },
+    {
+        "title": "CSSConf",
+        "url": "https://youtu.be/H6IDoraEpO0",
+        "details": "Boston, September 2016"
+    },
+    {
+        "title": "JavaScript Air",
+        "url": "https://javascriptair.com/episodes/2016-07-06",
+        "details": "Podcast, July, 2016"
+    },
+    {
+        "title": "Hanselminutes",
+        "url": "http://hanselminutes.com/534/creating-cross-platform-electron-apps-with-jessica-lord",
+        "details": "Podcast, June, 2106"
+    },
+    {
+        "title": "GitHub Satellite",
+        "url": "https://www.youtube.com/watch?v=WVb2OD49pUA",
+        "details": "Amsterdam, May, 2016"
+    },
+    {
+        "title": "Node Interactive",
+        "url": "https://www.youtube.com/watch?v=kdComTp7KsA",
+        "details": "Portland, 2015"
+    },
+    {
+        "title": "Mozilla Festival",
+        "url": "",
+        "details": "London, 2015"
+    },
+    {
+        "title": "GitHub Universe",
+        "url": "https://www.youtube.com/watch?v=_dkeD3OZ218",
+        "details": "San Francisco, 2015"
+    },
+    {
+        "title": "Open Source Open Society",
+        "url": "https://www.youtube.com/watch?v=0kWix0Krc9c",
+        "details": "New Zealand, 2015"
+    },
+    {
+        "title": "NICAR",
+        "url": "",
+        "details": "workshop, Atlanta, 2015"
+    },
+    {
+        "title": "Mozilla Festival",
+        "url": "",
+        "details": "London, 2014"
+    },
+    {
+        "title": "JSDC",
+        "url": "",
+        "details": "Taipei, 2014"
+    },
+    {
+        "title": "Web Rebels",
+        "url": "",
+        "details": "Oslo, 2014"
+    },
+    {
+        "title": "JSFest",
+        "url": "",
+        "details": "San Francisco, 2014"
+    },
+    {
+        "title": "She++ TechStories",
+        "url": "https://www.youtube.com/watch?v=eHOGE00ar4U",
+        "details": "interview, 2014"
+    },
+    {
+        "title": "Mozilla Festival",
+        "url": "",
+        "details": "London, 2013"
+    },
+    {
+        "title": "Aspen Institute, FOCAS",
+        "url": "http://www.aspeninstitute.org/policy-work/communications-society/FOCAS2013",
+        "details": "Aspen, 2013"
+    },
+    {
+        "title": "State of the Map",
+        "url": "",
+        "details": "Portland, 2012"
+    },
+    {
+        "title": "Code for America Summit",
+        "url": "http://www.youtube.com/watch?v=Q76bKK229aM",
+        "details": "San Francisco, 2012"
+    },
+    {
+        "title": "Farmhouse Conf",
+        "url": "",
+        "details": "Los Angeles, 2012"
+    }
+]

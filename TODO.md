@@ -4,3 +4,6 @@
 - Bring in old posts and pages
 - Bring in book pages and data
 - Fix sheetsee
+- Footnotes
+- Archive/All posts page
+- RSS

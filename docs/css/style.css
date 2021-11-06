@@ -116,6 +116,13 @@ figcaption,
   font-weight: 600;
 }
 
+a.secret-link {
+  color: var(--primary); 
+  /* TODO: use whatever color was already being used for the text */
+  text-decoration: none;
+  transition: background 0.2s linear;
+}
+
 /* Books */
 
 .center {
