@@ -7,3 +7,4 @@
 - Footnotes
 - Archive/All posts page
 - RSS
+- Code styles
