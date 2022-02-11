@@ -188,3 +188,11 @@ img.book {
     color: var(--primary);
     font-weight: 600;
 }
+
+/* Quotes */
+
+.quote {
+  font-size: 18px;
+  font-weight: bold;
+  font-style: italic;
+}
