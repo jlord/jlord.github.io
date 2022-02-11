@@ -6,7 +6,5 @@ tags: pages
 
 What it says on the tin. 
 
-{% for like in likes %}
-<span class="quote">{{ like.thing }}.</span>
-{%- endfor %}
+<span class="meta-text">2022 </span>{% for like in likes %}<span class="quote">{{ like.thing }}. </span>{%- endfor %}
 
