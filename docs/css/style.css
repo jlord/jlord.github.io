@@ -196,3 +196,11 @@ img.book {
   font-weight: bold;
   font-style: italic;
 }
+
+.quote:nth-child(odd) {
+  color: var(--primary);
+}
+
+.quote:nth-child(even) {
+  color: var(--muted);
+}
