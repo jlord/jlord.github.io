@@ -90,6 +90,11 @@ a:hover {
     font-weight: 600;
 }
 
+.mega-text {
+  font-size: 24px;
+  font-weight: 100;
+}
+
 footer {
     margin: var(--spacing-xl) 0;
     padding-top: var(--spacing-l);
