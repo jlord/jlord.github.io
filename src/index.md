@@ -1,4 +1,4 @@
---- 
+---
 title: Hello!
 layout: base.njk
 pagination:
@@ -7,16 +7,16 @@ pagination:
   alias: paginatedposts
 draft: true
 ---
-<h3>Writing</h3>
+### Posting
 
 {% for post in paginatedposts %}
-- [{{ post.data.title }}]({{ post.url }}) <span class="meta-text">{{ post.date | readableMonth }}</span> 
+- [{{ post.data.title }}]({{ post.url }}) <span class="meta-text">{{ post.date | readableMonth }}</span>
 {%- endfor %}
 
-### Fun Having
+### Having Fun
 - This site's [colophon](/colophon).
 - Things I [like](/likes).
-- Salty, old [letters](/letters). 
+- Salty, old [letters](/letters).
 
 <small>
 {% if pagination.href.previous %}
