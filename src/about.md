@@ -10,8 +10,6 @@ tags: pages
 I'm an architect turned open web developer and product manager, which isn't as odd as it sounds. I've coded since middle school but intentionally avoided it as a career until I saw it as a means of solving problems I cared about: open source. My architect-brain puts users first, I'm always thinking about how people understand the environment and systems they're in. All together I'm well suited as a product manager on a technical product and I love working to make open source more sustainable and to build avenues for creating and building the web for all.  
 </span>
 
-I used to spend a lot more of my free time on the computer but these days I'm enjoying birding, sewing, riding trains and taking walks in my new home of London. I like taking pictures, drinking coffee, reading The Guardian — the usual. 
-
 <br><span class="meta-text">
 Jessica Lord, she/her, GitHub Sponsors lead, London, England
 </span>
