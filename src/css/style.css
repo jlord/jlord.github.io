@@ -58,30 +58,30 @@ p {
 }
 
 ul {
-  list-style: none;
+  /* list-style: none;
   margin-left: 0;
   padding-left: 1em;
-  text-indent: -1em;
+  text-indent: -1em; */
 }
 
-/* ul.flush {
+ul.flush {
   list-style-position: inside;
   margin-left: 0;
   padding-left: 0;
-} */
+}
 
 ul > li,
 ol > li {
   margin-bottom: var(--spacing-s);
 }
 
-ul li:before {
+/* ul li:before {
   content: "— ";
-}
+} */
 
-ul.no-bullet {
+/* ul.no-bullet {
   list-style-type: none;
-}
+} */
 
 a:link,
 a:visited {
