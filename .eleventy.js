@@ -10,6 +10,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPlugin(pluginRss)
     eleventyConfig.addPlugin(pluginDate, {
       formats: {
+        readableNums: { year: "numeric", month: "numeric", day: "numeric" },
         readableDate: { year: "numeric", month: "short", day: "numeric" },
         readableMonth: { year: "numeric", month: "short" }
       }

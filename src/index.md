@@ -10,7 +10,7 @@ draft: true
 ### Posts
 
 {% for post in paginatedposts %}
-- [{{ post.data.title }}]({{ post.url }}) <span class="meta-text">{{ post.date | readableMonth }}</span>
+- [{{ post.data.title }}]({{ post.url }}) <span class="meta-text">{{ post.date | isoDate }}</span>
 {%- endfor %}
 <small>
 {% if pagination.href.previous %}
