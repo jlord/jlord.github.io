@@ -2,7 +2,7 @@
 layout: pages.njk
 title: Currently Reading
 ---
-Books I'm reading this year. See [here for 2019]({{ '/posts/2019-books' | url }}), [here for 2020]({{ '/posts/2020-books' | url }}), [here for 2021]({{ '/posts/2021-books' | url }}).
+Books I've this year so far. See [here for 2019]({{ '/posts/2019-books' | url }}), [here for 2020]({{ '/posts/2020-books' | url }}), [here for 2021]({{ '/posts/2021-books' | url }}).
 
 <h3 id="book-shelf">Shelf</h2>
 

@@ -7,8 +7,8 @@ x* {
   
   html {
     --foreground:   #333;     /* text */
-    --background:   #EAE7DF;  /* grey */
-    --primary:      #3477c9;  /* blue */
+    --background:   #f0ede6;  /* grey #f0ede6 ebe8e1*/
+    --primary:      #357efc;  /* blue  3477c9*/ 
     --secondary:    #b8d9ff;  /* yellow */
     --muted:        #526099;  /* also pink */
     --spacing-s:    8px;
@@ -33,6 +33,7 @@ body {
 h1 {
   display: inline-block;
   font-size: 56px;
+  font-weight: 100;
   /* TODO scale size */
 }
 
@@ -55,15 +56,26 @@ p {
   font-size: 16px;
 }
 
-ul.flush {
+ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 1em;
+  text-indent: -1em;
+}
+
+/* ul.flush {
   list-style-position: inside;
   margin-left: 0;
   padding-left: 0;
-}
+} */
 
 ul > li,
 ol > li {
   margin-bottom: var(--spacing-s);
+}
+
+ul li:before {
+  content: "— ";
 }
 
 ul.no-bullet {
