@@ -1,6 +1,6 @@
 ---
 layout: posts.njk
-title: Goodbye old site, hello new
+title: Goodbye Old Site, Hello New
 date: 2022-07-04
 ---
 
