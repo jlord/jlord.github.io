@@ -199,14 +199,44 @@
    "Subtitle": "",
    "Author": "Lahiri, Jhumpa",
    "Published": "08/30/2018",
+   "Read": "10/30/2022",
+   "ReadCount": "",
+   "Audiobook": "",
+   "Category": "Fiction",
+   "SubCategory": "",
+   "Rating": "4",
+   "Pages": "176",
+   "CoverURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1607444569i/56221722.jpg",
+   "GoodreadsURL": "https://www.goodreads.com/book/show/56221722-whereabouts"
+  },
+  {
+   "Title": "Tokyo Express",
+   "Subtitle": "",
+   "Author": "Matsumoto, Seichō",
+   "Published": "01/01/1957",
+   "Read": "11/01/2022",
+   "ReadCount": "",
+   "Audiobook": "",
+   "Category": "Fiction",
+   "SubCategory": "",
+   "Rating": "3",
+   "Pages": "175",
+   "CoverURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1637324200i/59238510.jpg",
+   "GoodreadsURL": "https://www.goodreads.com/book/show/38588764-tokyo-express"
+  },
+  {
+   "Title": "To the Lighthouse",
+   "Subtitle": "",
+   "Author": "Woolf, Virgina",
+   "Published": "05/27/1927",
    "Read": "Reading",
    "ReadCount": "",
    "Audiobook": "",
    "Category": "Fiction",
    "SubCategory": "",
    "Rating": "",
-   "Pages": "176",
-   "CoverURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1607444569i/56221722.jpg",
-   "GoodreadsURL": "https://www.goodreads.com/book/show/56221722-whereabouts"
+   "Pages": "235",
+   "CoverURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646583927i/28501519.jpg",
+   "GoodreadsURL": "https://www.goodreads.com/book/show/28501519-to-the-lighthouse"
   }
  ]
