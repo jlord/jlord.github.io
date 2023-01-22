@@ -12,7 +12,7 @@ I'm an architect turned open web developer and product manager, which isn't as o
 
 <p>But I am more than my work! In the midst of the pandemic in 2020 I moved myself to London after discovering I'm <em>technically</em> British and the UK gave me a passport. Here I endulge in long city walks, canal walks and village walks. Train trips and buildings as old as time. I've got a camera with me most of the time, drink lots of tea and am perfecting my Sunday Roast. </p>
 <br><span class="meta-text">
-Jessica Lord, she/her, GitHub Sponsors lead, London, England
+Jessica Lord, she/her, Staff Product Manager at GitHub which is technically at Microsoft, London, England
 </span>
 <!-- I lead [GitHub Sponsors](https://github.com/sponsors). I hail from the geographic center of the state of Georgia and reside in London, England.  -->
 
