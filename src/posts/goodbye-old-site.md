@@ -1,7 +1,7 @@
 ---
 layout: posts.njk
 title: Goodbye Old Site, Hello New
-date: 2022-07-04
+date: 2023-01-30
 ---
 
-I still like my old site.
+I still like my old site, actually. I sat around with this site for well over a year. I wanted something simple and something not built on a static site generator I wrote myself 10 years ago.

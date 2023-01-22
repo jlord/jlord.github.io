@@ -1,15 +1,15 @@
 ---
 layout: posts.njk
-title: 2021 Books
-date: 2022-01-01
+title: 2022 Books
+date: 2023-01-30
 tags: books
 ---
-Books I read in 2021. See [here for 2019]({{ '/posts/2019-books' | url }}), [here for 2020]({{ '/posts/2020-books' | url }}). Here's what I'm [currently reading](/reading). Here's [how I build this page](#how).
+The books I read in 2022. See here for years [2019-2021](/../books) or you can go to [Goodreads](TODO) for from whenever I started on there. Here's [how I build this page](#how).
 
 <h3 id="book-shelf">2021 Shelf</h2>
 
 <ul class="book-shelf-container">
-  {%- for book in 2021Books -%}
+  {%- for book in 2022Books -%}
     <li><a href="{{ book.GoodreadsURL }}">
       <img class="book" src="{{ book.CoverURL }}">
     </a></li>
@@ -26,7 +26,7 @@ Books I read in 2021. See [here for 2019]({{ '/posts/2019-books' | url }}), [her
       </tr>
     </thead>
     <tbody>
-      {%- for book in 2021Books -%}
+      {%- for book in 2022Books -%}
       <tr>
         <td class="table-row-number"></td><td><a href="{{ book.GoodreadsURL }}">{{ book.Title }}</a></td><td>{{ book.Author }}</td><td>{{ book.Read }}</td><td>{{ book.Category }} <span class="meta-text">{{ book.SubCategory }}</span></td><td class="center">{{ book.Pages }}</td>
       </tr>

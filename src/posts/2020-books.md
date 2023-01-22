@@ -2,6 +2,7 @@
 layout: posts.njk
 title: 2020 Books
 date: 2021-01-01
+tags: books
 ---
 Books I read in 2020. See [here for 2019]({{ '/posts/2019-books' | url }}). Here's what I'm [currently reading](/reading).
 <h3 id="book-shelf">2020 Shelf</h2>
@@ -32,4 +33,3 @@ Books I read in 2020. See [here for 2019]({{ '/posts/2019-books' | url }}). Here
     </tbody>
   </table>
 </div>
-
