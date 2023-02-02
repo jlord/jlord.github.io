@@ -1,0 +1,37 @@
+---json
+{
+  "permalink": "rubbish_feed.xml",
+  "eleventyExcludeFromCollections": true,
+  "metadata": {
+    "title": "jlord's weblog",
+    "subtitle": "What I write and put onto the internet.",
+    "language": "en",
+    "url": "https://jlord.us/",
+    "author": {
+      "name": "Jessica Lord"
+    }
+  }
+}
+---
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "{{ metadata.title }}",
+  "language": "{{ metadata.language }}",
+  "home_page_url": "{{ metadata.url }}",
+  "feed_url": "{{ permalink | absoluteUrl(metadata.url) }}",
+  "description": "{{ metadata.subtitle }}",
+  "author": {
+    "name": "{{ metadata.author.name }}",
+    "url": "{{ metadata.author.url }}"
+  },
+  "items": [
+    {%- for rubbish in rubbishes | reverse %}
+    {
+      "title": "{{ rubbish.item_name }}",
+      "link": "{{ rubbish.item_url }}",
+      "description": "{{ rubbish.item_description }}"
+    }
+    {% if not loop.last %},{% endif %}
+    {%- endfor %}
+  ]
+}
