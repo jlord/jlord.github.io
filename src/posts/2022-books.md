@@ -1,7 +1,7 @@
 ---
 layout: posts.njk
 title: 2022 Books
-date: 2023-01-30
+date: 2023-01-20
 tags: books
 ---
 The books I read in 2022. See here for years [2019-2021](/../books) or you can go to [Goodreads](TODO) for from whenever I started on there. Here's [how I build this page](#how).
