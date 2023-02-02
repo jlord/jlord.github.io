@@ -15,7 +15,7 @@
    "GoodreadsURL": "https://www.goodreads.com/book/show/34511800-autumn"
   },
   {
-   "Title": "The Morder of Roger Ackroyd",
+   "Title": "The Murder of Roger Ackroyd",
    "Subtitle": "",
    "Author": "Christie, Agatha",
    "Published": "07/07/1926",
@@ -25,6 +25,8 @@
    "Category": "Fiction",
    "SubCategory": "Mystery",
    "Rating": "5",
-
+   "Pages": "214",
+   "CoverURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392471057i/6251566.jpg",
+   "GoodreadsURL": "https://www.goodreads.com/book/show/6251566-the-murder-of-roger-ackroyd"
   }
  ]
