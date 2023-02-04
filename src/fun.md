@@ -13,3 +13,4 @@ I like to make things and track things.
 - About [living in Britain](/blighty).
 - The [books I've read](/books).
 - A [blogroll](/blogroll) of faves.
+- [Weekly reporting](/weeklies) on my life.
