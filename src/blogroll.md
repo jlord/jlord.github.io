@@ -1,15 +1,9 @@
 ---
 layout: base.njk
-title: Having Fun
+title: Blogroll
 tags: pages
 ---
 
-I like to make things and track things.
+People I like and the spaces they've made on the web.
 
-- This site's [colophon](/colophon).
-- Things I [like](/likes).
-- Salty, old [letters](/letters).
-- Things I bought that were [rubbish](/rubbish).
-- About [living in Britain](/blighty).
-- The [books I've read](/books).
-- A [blogroll](TODO) of faves.
+- [mu-an](https://muan.co)

@@ -1,0 +1,20 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "jlord&#39;s weblog",
+  "language": "en",
+  "home_page_url": "https://jlord.us/",
+  "feed_url": "https://jlord.us/rubbish_feed.xml",
+  "description": "What I write and put onto the internet.",
+  "author": {
+    "name": "Jessica Lord",
+    "url": ""
+  },
+  "items": [
+    {
+      "title": "Hay Sowden Kettle",
+      "link": "https://www.sowdenathome.com/shop/kettle-brown",
+      "description": "Another Hay disappointment. The thermometer has stopped working, the lid doesn&#39;t shut after one boil, it takes FOREVER to boil and it&#39;s LOUD."
+    }
+    
+  ]
+}

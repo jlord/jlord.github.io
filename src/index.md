@@ -12,6 +12,8 @@ draft: true
 {% for post in paginatedposts %}
 - [{{ post.data.title }}]({{ post.url }}) <span class="meta-text">{{ post.date | isoDate }}</span>
 {%- endfor %}
+
+<span class="meta-text"><a href="feed.xml">RSS</a> *</span>
 <small>
 {% if pagination.href.previous %}
   <a href="{{pagination.href.previous}}">Previous Page</a>

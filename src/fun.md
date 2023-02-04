@@ -12,4 +12,4 @@ I like to make things and track things.
 - Things I bought that were [rubbish](/rubbish).
 - About [living in Britain](/blighty).
 - The [books I've read](/books).
-- A [blogroll](TODO) of faves.
+- A [blogroll](/blogroll) of faves.

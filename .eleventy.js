@@ -8,6 +8,8 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./src/css/")
     eleventyConfig.addWatchTarget("./src/css/")
     eleventyConfig.addPlugin(pluginRss)
+    eleventyConfig.addLiquidFilter("dateToRfc3339", pluginRss.dateToRfc3339)
+    eleventyConfig.addLiquidFilter("dateToRfc822", pluginRss.dateToRfc822)
     eleventyConfig.addPlugin(pluginDate, {
       formats: {
         readableNums: { year: "numeric", month: "numeric", day: "numeric" },
