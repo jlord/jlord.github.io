@@ -6,6 +6,7 @@ const markdownItAnchor = require('markdown-it-anchor')
 
 module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./src/css/")
+    eleventyConfig.addPassthroughCopy("./src/assets/")
     eleventyConfig.addWatchTarget("./src/css/")
     eleventyConfig.addPlugin(pluginRss)
     eleventyConfig.addLiquidFilter("dateToRfc3339", pluginRss.dateToRfc3339)
