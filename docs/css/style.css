@@ -6,8 +6,8 @@ x* {
 }
 
   html {
-    --foreground:   #333;     /* text */
-    --background:   #f0ede6;  /* grey #f0ede6 ebe8e1*/
+    --foreground:   #004580;     /* text */
+    --background:   #fdfbf6;  /* grey #f0ede6 ebe8e1*/
     --primary:      #357efc;  /* blue  3477c9, navy 184166 almost purple 3228f0*/
     --secondary:    #ffdd0a;  /* yellow ffdd0a pale blue b8d9ff */
     --muted:        #526099;  /* also pink */
@@ -139,10 +139,11 @@ figcaption,
 }
 
 a.secret-link {
-  color: var(--primary);
+  color: var(--foreground);
   /* TODO: use whatever color was already being used for the text */
   text-decoration: none;
-  transition: background 0.2s linear;
+  background-color: #ffdd0a;
+  /* transition: background 0.2s linear; */
 }
 
 /* List as blocks, may delete  */
