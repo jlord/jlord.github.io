@@ -75,8 +75,9 @@ ol > li {
   /* margin-bottom: var(--spacing-s); */
 }
 
-ul + blockquote {
-  color: var(--muted);
+blockquote p em {
+  /* color: var(--muted); */
+  background-color: var(--secondary);
 }
 
 /* ul li:before {
@@ -147,7 +148,7 @@ a.secret-link {
   color: var(--foreground);
   /* TODO: use whatever color was already being used for the text */
   text-decoration: none;
-  background-color: #ffdd0a;
+  /* background-color: #ffdd0a; */
   /* transition: background 0.2s linear; */
 }
 
