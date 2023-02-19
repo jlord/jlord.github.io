@@ -107,6 +107,11 @@ a:hover {
     font-weight: 600;
 }
 
+.nav-text {
+  font-size: 12px;
+  font-family: var(--sans), sans-serif;
+}
+
 .mega-text {
   font-size: 24px;
   font-weight: 100;
