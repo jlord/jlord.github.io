@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Living in Britain.
+title: Living in Britain
 tags: pages
 ---
 

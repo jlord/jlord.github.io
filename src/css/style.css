@@ -26,7 +26,7 @@ body {
     margin: 2em;
     background: var(--background);
     color: var(--foreground);
-    line-height: 1.75;
+    /* line-height: 1.75; */
     max-width: 750px;
 }
 
@@ -55,12 +55,18 @@ h4 {
 p {
   margin-top: var(--spacing-l);
   font-size: 16px;
+  line-height: 1.75;
+}
+
+tbody {
+  line-height: 1.75;
 }
 
 ul {
   /* list-style-type: upper-roman; */
   margin-left: 0;
   padding-left: 1em;
+  line-height: 1.75;
   /* text-indent: -1em; */
 }
 
@@ -214,7 +220,7 @@ img.book {
 }
 
 .book-list-container thead th {
-  border-bottom: 3px solid #333;
+  border-bottom: 3px solid var(--foreground);
   font-size: 20px;
   text-align: left;
   padding-right: 8px;
