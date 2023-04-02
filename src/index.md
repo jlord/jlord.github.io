@@ -3,7 +3,7 @@ title: Hello!
 layout: base.njk
 pagination:
   data: collections.posts
-  size: 4
+  size: 5
   alias: paginatedposts
 draft: true
 ---

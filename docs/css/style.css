@@ -9,7 +9,7 @@ x* {
     --foreground:   #004580;     /* text */
     --background:   #fdfbf6;  /* grey #f0ede6 ebe8e1*/
     --primary:      #357efc;  /* blue  3477c9, navy 184166 almost purple 3228f0*/
-    --secondary:    #ffdd0a;  /* yellow ffdd0a pale blue b8d9ff */
+    --secondary:    #ffdd0a;  /* yellow ffdd0a pale blue b8d9ff ffdd0a dcff17 */
     --muted:        #526099;  /* also pink */
     --spacing-s:    8px;
     --spacing-m:    24px;
@@ -32,7 +32,7 @@ body {
 
 h1 {
   display: inline-block;
-  font-size: 56px;
+  font-size: 64px;
   font-weight: 100;
   font-style: italic;
   /* TODO scale size */
@@ -42,7 +42,7 @@ h1,
 h2,
 h3,
 h4 {
-  margin-top: var(--spacing-xl);
+  margin-top: var(--spacing-l);
   color: var(--foreground);
 }
 
