@@ -209,6 +209,12 @@ img.book {
   max-width: 134px;
 }
 
+.three-imgs {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 5px;
+}
+
 .book-list-container {
   font-family: var(--sans);
   font-weight: 100;
