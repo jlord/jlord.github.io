@@ -3,6 +3,7 @@ layout: posts.njk
 title: New Site, Simple Site
 date: 2023-04-02
 tags: web development
+draft: true
 ---
 
 ![screenshot](/../assets/imgs/old-site-screenshot-no-border.png)

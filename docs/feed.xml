@@ -752,20 +752,5 @@
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-13/</guid>
     </item>
-    <item>
-      <title>New Site, Simple Site</title>
-      <link>https://jlord.us/posts/new-site/</link>
-      <description>&lt;p&gt;&lt;img src=&quot;https://jlord.us/assets/imgs/old-site-screenshot-no-border.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;This is a screenshot of the old site.&lt;/figcaption&gt;
-&lt;p&gt;I don&#39;t even dislike my old site (now in this &lt;a href=&quot;https://github.com/jlord/old-site&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;repo&lt;/a&gt;, at &lt;a href=&quot;https://jlord.github.io/old-site&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;this address&lt;/a&gt;). I love what I&#39;ve called for years now &lt;em&gt;website blue&lt;/em&gt;, the shock of colbalt (and here it persists). I like the type enough that it&#39;s what&#39;s on this new site, too. But I felt like something new and I felt like something really simple. So I&#39;ve spent about two years fussing with colors. Anyway, &lt;strong&gt;long live HTML and CSS&lt;/strong&gt;.&lt;/p&gt;
-&lt;h2&gt;A Few Words on the New Site&lt;/h2&gt;
-&lt;p&gt;How simple can I make this? It&#39;s left aligned! No buttons?! I could do another pass and tighten up the CSS. Most importantly I&#39;m using &lt;a href=&quot;https://jlord.us/posts/new-site/&quot;&gt;Eleventy&lt;/a&gt; to build it and doing &lt;a href=&quot;https://jlord.us/posts/new-site/&quot;&gt;fun (to me) things&lt;/a&gt; with spreadsheets that I turn into JSON, or just writing a list. I plan on constantly tweaking this site (type, layout, colors) and never really considering it &lt;em&gt;done&lt;/em&gt; until I start a new site.&lt;/p&gt;
-&lt;h2&gt;A Few Words in Honor of the Old Site&lt;/h2&gt;
-&lt;p&gt;I built the old site &lt;strong&gt;eight years ago&lt;/strong&gt;! Back when I was bright-eyed and coding around the clock and doing things like &lt;a href=&quot;https://github.com/jlord/balrog&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;building my own static site generator&lt;/a&gt; as a fun exercise. It was britle but it held up.&lt;/p&gt;
-</description>
-      <pubDate>Sun, 02 Apr 2023 01:00:00 +0000</pubDate>
-      <dc:creator>Jessica Lord</dc:creator>
-      <guid>https://jlord.us/posts/new-site/</guid>
-    </item>
   </channel>
 </rss>
