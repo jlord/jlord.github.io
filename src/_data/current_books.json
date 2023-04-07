@@ -4,7 +4,7 @@
      "Subtitle": "",
      "Author": "Smith, Ali",
      "Published": "08/20/2016",
-     "Read": "3/1/2023",
+     "Read": "03/01/2023",
      "ReadCount": "",
      "Audiobook": "",
      "Category": "Fiction",
@@ -19,7 +19,7 @@
      "Subtitle": "",
      "Author": "Christie, Agatha",
      "Published": "07/07/1926",
-     "Read": "13/1/2023",
+     "Read": "13/01/2023",
      "ReadCount": "",
      "Audiobook": "",
      "Category": "Fiction",
@@ -105,6 +105,36 @@
      "GoodreadsURL": "https://www.goodreads.com/book/show/58547117-recovery"
     },
     {
+     "Title": "A Life of My Own",
+     "Subtitle": "",
+     "Author": "Tomalin, Claire",
+     "Published": "09/07/2017",
+     "Read": "05/04/2023",
+     "ReadCount": "",
+     "Audiobook": "",
+     "Category": "Non Fiction",
+     "SubCategory": "Autobiography",
+     "Rating": "5",
+     "Pages": "352",
+     "CoverURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1519285031i/36979405.jpg",
+     "GoodreadsURL": "https://www.goodreads.com/book/show/36979405-a-life-of-my-own"
+    },
+    {
+     "Title": "The Little Virtues",
+     "Subtitle": "",
+     "Author": "Ginzberg, Natalia",
+     "Published": "01/01/1962",
+     "Read": "Reading",
+     "ReadCount": "",
+     "Audiobook": "",
+     "Category": "Non Fiction",
+     "SubCategory": "Essays",
+     "Rating": "X",
+     "Pages": "171",
+     "CoverURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1640242413i/59914412.jpg",
+     "GoodreadsURL": "https://www.goodreads.com/book/show/59914412-the-little-virtues"
+    },
+    {
      "Title": "Before the Coffee gets Cold",
      "Subtitle": "",
      "Author": "Kawaguchi, Toshikazu",
@@ -118,20 +148,5 @@
      "Pages": "213",
      "CoverURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560955053i/44421460.jpg",
      "GoodreadsURL": "https://www.goodreads.com/book/show/44421460-before-the-coffee-gets-cold"
-    },
-    {
-     "Title": "A Life of My Own",
-     "Subtitle": "",
-     "Author": "Tomalin, Claire",
-     "Published": "09/07/2017",
-     "Read": "Reading",
-     "ReadCount": "",
-     "Audiobook": "",
-     "Category": "Non Fiction",
-     "SubCategory": "Autobiography",
-     "Rating": "X",
-     "Pages": "352",
-     "CoverURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1519285031i/36979405.jpg",
-     "GoodreadsURL": "https://www.goodreads.com/book/show/36979405-a-life-of-my-own"
     }
    ]
