@@ -6,11 +6,31 @@ x* {
 }
 
   html {
-    --foreground:   #004580;     /* text */
-    --background:   #fdfbf6;  /* grey #f0ede6 ebe8e1*/
-    --primary:      #357efc;  /* blue  3477c9, navy 184166 almost purple 3228f0*/
-    --secondary:    #ffdd0a;  /* yellow ffdd0a pale blue b8d9ff ffdd0a dcff17 */
-    --muted:        #526099;  /* also pink */
+    /* --foreground: #004580;
+    --background: #f6e5bc;
+    --primary: #fc5b35;
+    --secondary: #ffdd0a;
+    --muted: #526099; 
+    highlighter daff0a
+    mustard ffdd0a
+    goldenrod c99d03
+    butter fde494
+        --foreground:   #004580;    
+    --background:   #fff2e2; 
+    --primary:      #357efc; 
+    --secondary:    #daff0a; 
+    --muted:        #526099; 
+
+        --foreground:   #032848;    
+    --background:   #c99d03; 
+    --primary:      #fde494; 
+    --secondary:    #daff0a; 
+    --muted:        #526099; 
+    */
+    --foreground:   #004580;    
+    --background:   #fff2e2; 
+    --primary:      #357efc; 
+    --secondary:    #ffdd0a; 
     --spacing-s:    8px;
     --spacing-m:    24px;
     --spacing-l:    32px;
