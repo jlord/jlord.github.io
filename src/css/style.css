@@ -117,7 +117,18 @@ blockquote p em {
 a:link,
 a:visited {
   color: var(--foreground);
+  /* text-decoration-color: var(--foreground); */
+  text-decoration-color: #fc5b35;
+  text-decoration-thickness: .125em;
+  text-underline-offset: 3px;
+  transition: background 0.2s linear;
+}
+
+.navigation a:link,
+.navigation a:visited {
+  color: var(--foreground);
   text-decoration-color: var(--foreground);
+  /* text-decoration-color: #fc5b35; */
   text-decoration-thickness: .125em;
   text-underline-offset: 3px;
   transition: background 0.2s linear;
