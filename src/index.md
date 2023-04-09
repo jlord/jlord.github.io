@@ -1,6 +1,7 @@
 ---
 title: Hello!
 layout: base.njk
+tag: index
 pagination:
   data: collections.posts
   size: 6
