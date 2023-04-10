@@ -78,6 +78,11 @@ p {
   line-height: 1.75;
 }
 
+.hero-img {
+  max-width: 250px;
+  /* padding: 20px 0px 40px 0px; */
+}
+
 tbody {
   line-height: 1.75;
 }
