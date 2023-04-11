@@ -2,9 +2,9 @@
 layout: pages.njk
 title: Currently Reading
 ---
-Books I've read this year so far. See my pages for [2019-2020](/../books) or [Goodreads](https://www.goodreads.com/user/show/768192-jlord) for _even_ more. 
+Books I've read this year so far. See my pages for [2019-2020](/../books) or [Goodreads](https://www.goodreads.com/user/show/768192-jlord) for _even_ more.
 
-<h3 id="book-shelf">Shelf</h3>
+<h2 id="book-shelf">Shelf</h2>
 
 <ul class="book-shelf-container">
   {%- for book in current_books -%}
@@ -14,7 +14,7 @@ Books I've read this year so far. See my pages for [2019-2020](/../books) or [Go
   {%- endfor -%}
 </ul>
 
-<h3 id="book-shelf">List</h2>
+<h2 id="book-shelf">List</h2>
 
 <div class="book-list-container">
   <table>
