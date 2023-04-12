@@ -46,7 +46,7 @@ body {
     margin: 2em;
     background: var(--background);
     color: var(--foreground);
-    /* line-height: 1.75; */
+    line-height: 1.2;
     max-width: 750px;
 }
 
