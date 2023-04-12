@@ -162,7 +162,7 @@ a:hover {
 
 footer {
     margin: var(--spacing-xl) 0;
-    padding-top: var(--spacing-l);
+    /* padding-top: var(--spacing-l); */
 }
 
 img {
