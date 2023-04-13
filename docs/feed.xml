@@ -792,5 +792,34 @@
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/new-site/</guid>
     </item>
+    <item>
+      <title>About</title>
+      <link>https://jlord.us/posts/layout-%20base.njk/</link>
+      <description>&lt;p&gt;&lt;small&gt;&lt;em&gt;Socials&lt;/em&gt; &lt;em&gt;&lt;a href=&quot;https://github.com/jlord&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;gh/jlord&lt;/a&gt;&lt;/em&gt; | &lt;em&gt;&lt;a href=&quot;https://twitter.com/jllord&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;tw/jllord&lt;/a&gt;&lt;/em&gt; | &lt;em&gt;&lt;a href=&quot;https://instagram.com/jlord&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;ig/jlord&lt;/a&gt;&lt;/em&gt; | &lt;em&gt;&lt;a href=&quot;https://mastodon.social/@jlord&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;mastodon/jlord&lt;/a&gt;&lt;/em&gt; &lt;em&gt;Work&lt;/em&gt; &lt;em&gt;&lt;a href=&quot;https://jlord.us/speaking&quot;&gt;Speaking&lt;/a&gt;&lt;/em&gt; | &lt;em&gt;&lt;a href=&quot;https://read.cv/jlord&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;CV&lt;/a&gt;&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;!-- TODO: You need a photo, rename page your name --&gt;
+&lt;span class=&quot;mega-text&quot;&gt;
+I&#39;m an architect turned open web developer and product manager, which isn&#39;t as odd as it sounds. I&#39;ve coded since middle school but intentionally avoided it as a career until I saw it as a means of solving problems I cared about: open source. My architect-brain puts users first, I&#39;m always thinking about how people understand the environment and systems they&#39;re in. All together I&#39;m well suited as a product manager on a technical product and I love working to make open source more sustainable and to build an accessible web for all.  
+&lt;/span&gt;
+&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;After college, as an &lt;strong&gt;architect&lt;/strong&gt; I worked in a small Atlanta firm designing single and multi-family homes. Earned LEED BD&amp;amp;C accreditation (since lapsed, of course).&lt;/li&gt;
+&lt;li&gt;As an &lt;strong&gt;urban designer for the City of Boston&lt;/strong&gt; in the Urban Design Technology Group, I worked on neighbourhood planning, modelling studies and building design rebuttals. Earned LEED ND accreditation (since lapsed, of course).&lt;/li&gt;
+&lt;li&gt;In 2012 I received a &lt;strong&gt;Code for America fellowship&lt;/strong&gt; and built an open source budget transparency tool for city governments.&lt;/li&gt;
+&lt;li&gt;With a grant from Mozilla Open News I turned that budget tool into a general purpose, open source, spreadsheet-as-database tool.&lt;/li&gt;
+&lt;li&gt;After &lt;strong&gt;joining GitHub as a software developer&lt;/strong&gt; in 2013 I worked across dotcom, created a Git &amp;amp; GitHub learning event, application and course material (still in use) and &lt;strong&gt;started the Electron team&lt;/strong&gt;, the library that now powers apps such as Slack, Teams, Skype, Figma, Notion and much, much more.&lt;/li&gt;
+&lt;li&gt;At Splice and Glitch I developed my engineering and engineering leadership skills, eventually becoming a &lt;strong&gt;Director of Engineering&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;In 2021, I &lt;strong&gt;re-joined GitHub&lt;/strong&gt; to lead the Sponsors team, the functionality within GitHub that aims to help &lt;strong&gt;make open source sustainability a reality&lt;/strong&gt; and sees upwards of $15M/year pass through the program.&lt;/li&gt;
+&lt;li&gt;I&#39;ve given &lt;strong&gt;talks across the globe&lt;/strong&gt;  to audiences small and large about open source, specific technologies and best practices.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;But also&lt;/h2&gt;
+&lt;p&gt;I am more than my work! In the midst of the pandemic in 2020 I moved myself to London after discovering I&#39;m &lt;em&gt;technically&lt;/em&gt; British and the UK gave me a passport. Here I indulge in long city walks, long canal walks and long village walks. Sitting on a train is my happy place. I&#39;ve got a camera with me most of the time, drink lots of tea and am perfecting my roasties. &lt;/p&gt;
+&lt;br /&gt;&lt;span class=&quot;meta-text&quot;&gt;
+Jessica Lord, she/her, Staff Product Manager at GitHub which is technically at Microsoft, London, England
+&lt;/span&gt;
+</description>
+      <pubDate>Thu, 13 Apr 2023 17:19:32 +0000</pubDate>
+      <dc:creator>Jessica Lord</dc:creator>
+      <guid>https://jlord.us/posts/layout-%20base.njk/</guid>
+    </item>
   </channel>
 </rss>
