@@ -17,7 +17,7 @@ I'm an architect turned open web developer and product manager, which isn't as o
 - With a grant from Mozilla Open News I turned that budget tool into a general purpose, open source, spreadsheet-as-database tool. 
 - After **joining GitHub as a software developer** in 2013 I worked across dotcom, created a Git & GitHub learning event, application and course material (still in use) and **started the Electron team**, the library that now powers apps such as Slack, Teams, Skype, Figma, Notion and much, much more. 
 - At Splice and Glitch I developed my engineering and engineering leadership skills, eventually becoming a **Director of Engineering**.
-- In 2021, I **re-joined GitHub** to lead the Sponsors team, the functionality within GitHub that aims to help **make open source sustainability a reality** and sees upwards of $15M/year pass through the program.
+- In 2021, I **re-joined GitHub** to lead the Sponsors team, the functionality within GitHub that aims to help **make open source sustainability a reality** and has seen over $30M pass through the program.
 - I've given **talks across the globe**  to audiences small and large about open source, specific technologies and best practices.
 
 ## But also
