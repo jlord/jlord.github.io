@@ -168,6 +168,8 @@ footer {
 img {
   /* background-color: var(--secondary); */
   max-width: 100%;
+  height: 100%; /* I don't know, @muan */
+  object-fit: cover; /* I don't know, @muan */
 }
 
 a img {
@@ -248,6 +250,12 @@ img.book {
 .three-imgs {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  grid-gap: 5px;
+}
+
+.two-imgs {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
   grid-gap: 5px;
 }
 
