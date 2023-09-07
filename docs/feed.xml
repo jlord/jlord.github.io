@@ -27,7 +27,7 @@
 &lt;li&gt;Repository: &lt;a href=&quot;https://github.com/jlord/essential-electron&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;gh/jlord/essential-electron&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 08 Oct 2017 01:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Oct 2017 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/essential-electron/</guid>
     </item>
@@ -132,7 +132,7 @@
   &lt;/table&gt;
 &lt;/div&gt;
 &lt;/h3&gt;</description>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Dec 2019 19:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2019-books/</guid>
     </item>
@@ -161,7 +161,7 @@
 &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Grimm%27s_law&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Grimm&#39;s Law&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 08 Oct 2020 01:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2020 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/danish/</guid>
     </item>
@@ -307,7 +307,7 @@
   &lt;/table&gt;
 &lt;/div&gt;
 &lt;/h3&gt;&lt;/h3&gt;</description>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Dec 2020 19:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2020-books/</guid>
     </item>
@@ -423,7 +423,7 @@
 &lt;h3 id=&quot;how&quot;&gt;How I Build This Page&lt;/h3&gt;
 &lt;p&gt;I keep a spreadsheet of the books I read each year and I get the JSON of that spreadsheet and dump it into the &lt;code&gt;_data&lt;/code&gt; directory in the code for this site which is built on Eleventy. That data is then used most easily (thanks, Eleventy!) to populate this page. The code is on &lt;a href=&quot;https://github.com/jlord/next-site&quot; target=&quot;_blank&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;/h3&gt;&lt;/h3&gt;</description>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Dec 2021 19:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2021-books/</guid>
     </item>
@@ -511,7 +511,7 @@
 &lt;h3 id=&quot;how&quot;&gt;How I Build This Page&lt;/h3&gt;
 &lt;p&gt;I keep a spreadsheet of the books I read each year and I get the JSON of that spreadsheet and dump it into the &lt;code&gt;_data&lt;/code&gt; directory in the code for this site which is built on Eleventy. That data is then used most easily (thanks, Eleventy!) to populate this page. The code is on &lt;a href=&quot;https://github.com/jlord/next-site&quot; target=&quot;_blank&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;/h3&gt;&lt;/h3&gt;</description>
-      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Jan 2023 19:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2022-books/</guid>
     </item>
@@ -526,7 +526,7 @@
 &lt;li&gt;I&#39;ve started a new project at work and it&#39;s been great to be far less stressed and to feel energised and optimistic rather than deflated, dragging and drowning!&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 Jan 2023 19:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-03/</guid>
     </item>
@@ -541,7 +541,7 @@
 &lt;li&gt;I&#39;m getting stir crazy, though. It&#39;s hard for someone like me to sit still and now that—thanks to the UK not letting folks under 50 have a booster jab—I&#39;m finally (ugh) better inoculated against covid I feel I can do a better job this year of getting out and seeing humans and I&#39;d like that to be able to start already, thank you.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Jan 2023 19:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-04/</guid>
     </item>
@@ -555,7 +555,7 @@
 &lt;li&gt;I spent Sunday cleaning up all my gardening supplies and sewing some seeds: heirloom tomatoes (that I harvested from posh farmer&#39;s market tomatoes in 2020), chives, micro greens, trailing flower and two other flowers.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Feb 2023 19:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-05/</guid>
     </item>
@@ -578,7 +578,7 @@
 &lt;li&gt;I am so tired of all the Life Admin that&#39;s dragging on. This is a bleak post!&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Feb 2023 19:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-06/</guid>
     </item>
@@ -600,7 +600,7 @@
 &lt;li&gt;Doing these couple of &amp;quot;normal&amp;quot; social things recently resulted in 3 nights of 10 or nearly 10 hours of sleep.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 Feb 2023 19:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-07/</guid>
     </item>
@@ -617,7 +617,7 @@
 &lt;li&gt;The start of the week was pretty sad and lonely but it got better.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 26 Feb 2023 19:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-08/</guid>
     </item>
@@ -633,7 +633,7 @@
 &lt;li&gt;This was supposedly my last week of post-covid recovery. 12 pretty tough weeks, but it could have been a lot worse. Symptoms are now mostly diminished (though not completely gone), the biggest shift was after week 10. &lt;strong&gt;Wear a fucking mask&lt;/strong&gt; and let us have boosters, Prime minister!&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 Mar 2023 19:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-09/</guid>
     </item>
@@ -651,7 +651,7 @@
 &lt;li&gt;Sunday the temperature are rash are worse. But I&#39;m on medication? I&#39;ve seen two doctors? Now it&#39;s on my lips and in my mouth. I&#39;ll just keep resting. Keep hoping. It&#39;s getting harder to take care of myself, if I don&#39;t take pain tablets every 4 hours on the dot I lose 2 hours of mobility as they wear off and ramp back up.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Mar 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-10/</guid>
     </item>
@@ -678,7 +678,7 @@
 &lt;li&gt;&lt;a href=&quot;https://jlord.us/posts/better-hospital-bag&quot;&gt;Here&#39;s what I should have packed before going to A&amp;amp;E&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Mar 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-11/</guid>
     </item>
@@ -700,7 +700,7 @@
 &lt;/ul&gt;
 &lt;p&gt;Thank you to the friends who brought me these things throughout the week &amp;lt;3.&lt;/p&gt;
 </description>
-      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Mar 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/better-hospital-bag/</guid>
     </item>
@@ -725,7 +725,7 @@
 &lt;li&gt;I&#39;m going to try to return to work tomorrow.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 27 Mar 2023 01:00:00 +0000</pubDate>
+      <pubDate>Sun, 26 Mar 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-12/</guid>
     </item>
@@ -748,7 +748,7 @@
 &lt;li&gt;I am &lt;a href=&quot;https://jlord.us/reading&quot;&gt;reading&lt;/a&gt; &lt;em&gt;A Life of My Own&lt;/em&gt; by Claire Tomalin. I picked this up at a used book store in North London months ago because I read her Jane Austen biography. I really love reading about people, their lives, especially writers. I also love learning about history and norms through the periods she lived in. What a fascinating life so far: Virgina Woolf for lunch once and childhood friends with the Attenboroughs and so many creative, interesting and very socialist people! So many place names I recognise now, how fun!&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 02 Apr 2023 01:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Apr 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-13/</guid>
     </item>
@@ -769,7 +769,7 @@
 &lt;li&gt;&lt;strong&gt;Thank goodness for a sunny four-day weekend&lt;/strong&gt;. I perfected Milk Beach&#39;s sweet potato puree and &lt;a href=&quot;https://www.instagram.com/p/CcHzmYkgOp4/?hl=en&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;baked egg in a jam jar&lt;/a&gt;; oof it&#39;s so good.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 11 Apr 2023 01:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Apr 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-14/</guid>
     </item>
@@ -788,7 +788,7 @@
 &lt;p&gt;I built the old site &lt;strong&gt;ten years ago&lt;/strong&gt;! Back when I was bright-eyed and coding around the clock and doing things like &lt;a href=&quot;https://github.com/jlord/balrog&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;building my own static site generator&lt;/a&gt; as a fun exercise. It was brittle but it&#39;s held up. I learned lots from &lt;a href=&quot;https://bjb.dev/&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;@brianloveswords&lt;/a&gt; at that time and he has since taught me many things like SQL, skillet chicken and how to handle finances.&lt;/p&gt;
 &lt;p&gt;Goodbye old site, you were made with love and I will not forget you!&lt;/p&gt;
 </description>
-      <pubDate>Wed, 12 Apr 2023 01:00:00 +0000</pubDate>
+      <pubDate>Tue, 11 Apr 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/new-site/</guid>
     </item>
@@ -811,7 +811,7 @@
 &lt;li&gt;I hope next week that this bag o&#39; bones will produce some cortisol on its own.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 16 Apr 2023 01:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Apr 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-15/</guid>
     </item>
@@ -827,7 +827,7 @@
 &lt;li&gt;I&#39;ve stayed away from Instagram for months now, the happy posts of people not ill and people not alone had not been great for my health. But I came back to &lt;a href=&quot;https://www.instagram.com/p/CrYCsJitauZ/&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;post a bit about my health&lt;/a&gt;, now that I&#39;m on the other side of recent ailments and learned about other friends struggling with covid and other long term illnesses. I&#39;m glad I  shared (but sad we have to deal with these things).&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 25 Apr 2023 01:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Apr 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-16/</guid>
     </item>
@@ -851,7 +851,7 @@
 &lt;li&gt;I was accepted into a Long Covid study!&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 01 May 2023 01:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Apr 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-17/</guid>
     </item>
@@ -870,7 +870,7 @@
 &lt;li&gt;It&#39;s pick-gross-snails-off-of-things-dear-to-me season again here in the UK. Yuck.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 08 May 2023 01:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 May 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-18/</guid>
     </item>
@@ -887,7 +887,7 @@
 &lt;li&gt;Steam a sweet potato for 30 minutes + lentils, yogurt, herbs and lemon juice.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 15 May 2023 01:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 May 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-19/</guid>
     </item>
@@ -905,7 +905,7 @@
 &lt;li&gt;Hope the long overdue break from regular life and work will help -- though it will be lonely.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 21 May 2023 01:00:00 +0000</pubDate>
+      <pubDate>Sat, 20 May 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-20/</guid>
     </item>
@@ -925,7 +925,7 @@
 &lt;li&gt;I don&#39;t want to go back to work.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 29 May 2023 01:00:00 +0000</pubDate>
+      <pubDate>Sun, 28 May 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-21/</guid>
     </item>
@@ -946,7 +946,7 @@
 &lt;li&gt;There&#39;s a lot on my plate and a lot in the air.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 05 Jun 2023 01:00:00 +0000</pubDate>
+      <pubDate>Sun, 04 Jun 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-22/</guid>
     </item>
@@ -965,7 +965,7 @@
 &lt;li&gt;I started therapy again. Fingers crossed this lady won&#39;t have so much gossipy commentary like the last woman I tried here who said, &amp;quot;I can see that,&amp;quot; when I told her I was surprise-dumped and the guy said I &amp;quot;get too excited over little things, it&#39;s weird&amp;quot;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 12 Jun 2023 01:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Jun 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-23/</guid>
     </item>
@@ -984,7 +984,7 @@
 &lt;li&gt;&lt;a href=&quot;https://muan.co/&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Mu-An&lt;/a&gt;, who is the best, was in town again this week, what a treat!&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 19 Jun 2023 01:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Jun 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-25/</guid>
     </item>
@@ -1003,7 +1003,7 @@
 &lt;li&gt;I went to &lt;a href=&quot;https://www.theburntcity.com/&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Burnt City&lt;/a&gt;, which is like Sleep No More in NYC (which I went to and loved years ago) and it was so good! &lt;strong&gt;It means so much to me that a spooky, quiet place filled with vignettes and ephemera exists&lt;/strong&gt;. But I won&#39;t do a crowded inside thing again until after the 14th.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 27 Jun 2023 01:00:00 +0000</pubDate>
+      <pubDate>Mon, 26 Jun 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-24/</guid>
     </item>
@@ -1020,7 +1020,7 @@
 &lt;li&gt;Everyone wants to send well wishes and ask if they can help but no one can. What I need are people to go with me to appointments, to help me make appointments/clean my dishes/make me food when I&#39;m ill or have spent half the day back at the hospital again. They have their own lives and partners so I get it and I don&#39;t expect it but I also am a bit over telling people &lt;em&gt;thanks for the sentiment&lt;/em&gt; -- frankly I don&#39;t have the time, I need to be getting back to doing it all.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 04 Jul 2023 01:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Jul 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-26/</guid>
     </item>
@@ -1037,7 +1037,7 @@
 &lt;li&gt;I move into &lt;em&gt;my&lt;/em&gt; flat on Friday! Will be working extra hard to keep my brain ok with the checklists and deadlines.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 10 Jul 2023 01:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jul 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-27/</guid>
     </item>
@@ -1053,7 +1053,7 @@
 &lt;li&gt;I&#39;m so tired. I need, please, to stop being in the middle of all of this still, I need some things to drop off the Life Admin list.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 18 Jul 2023 01:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Jul 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-28/</guid>
     </item>
@@ -1064,7 +1064,7 @@
 &lt;li&gt;Too depressed, maybe later.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 25 Jul 2023 01:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Jul 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-29/</guid>
     </item>
@@ -1081,7 +1081,7 @@
 &lt;li&gt;Nice things: I got internet at the new flat, I went to a ballet and had Taiwanese food, the tomatoes are not giving up though this cold summer&#39;s made it a slog.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 31 Jul 2023 01:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Jul 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-30/</guid>
     </item>
@@ -1096,7 +1096,7 @@
 &lt;li&gt;I began a battle with my old landlord who had not, at this point, returned my deposit as required within 10 days.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 21 Aug 2023 01:00:00 +0000</pubDate>
+      <pubDate>Sun, 20 Aug 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-31/</guid>
     </item>
@@ -1113,7 +1113,7 @@
 &lt;li&gt;Found out that my old landlord, in addition to not meeting the 10 day deadline for dealing with my deposit, also had not protected my deposit as is required by our Assured Shorthold Tenancy. These are huge breeches! I send more emails, hands shaking and heart pumping and he keeps ignoring me.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 21 Aug 2023 01:00:00 +0000</pubDate>
+      <pubDate>Sun, 20 Aug 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-32/</guid>
     </item>
@@ -1134,9 +1134,43 @@
 &lt;li&gt;Can I catch a break, please?&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 21 Aug 2023 01:00:00 +0000</pubDate>
+      <pubDate>Sun, 20 Aug 2023 20:00:00 +0000</pubDate>
       <dc:creator>Jessica Lord</dc:creator>
       <guid>https://jlord.us/posts/2023-33/</guid>
+    </item>
+    <item>
+      <title>2023 34wk</title>
+      <link>https://jlord.us/posts/2023-34/</link>
+      <description>&lt;ul&gt;
+&lt;li&gt;In my diary for Monday I wrote: &amp;quot;OK day!&amp;quot;&lt;/li&gt;
+&lt;li&gt;I saw a couple of people briefly mid-week. I bought more books.&lt;/li&gt;
+&lt;li&gt;Thursday I cried a lot, walked along the Thames and got stranded while the Overground broke.&lt;/li&gt;
+&lt;li&gt;I finally got in touch with my GP who sent in a prescription for more steroids -- I&#39;d had to decide myself to decrease so that I would make it through the week before seeing the doctors at the hospital again on the Friday. It&#39;s not great to have to decide yourself how to stretch out your steroids and not be able to get in touch with any of your doctors. &lt;strong&gt;Not great&lt;/strong&gt;!&lt;/li&gt;
+&lt;li&gt;Friday, the &lt;em&gt;six weeks delayed due to strikes and initially rescheduled in December which was impossible so I had to push for a new date&lt;/em&gt; appointment at the hospital happened. I got a casual &amp;quot;Yes, it has been a crazy time,&amp;quot; response to leaving me without enough steroids to live on and no one checking in on me and no one telling me what to expect while on steroids for so long.&lt;/li&gt;
+&lt;li&gt;I got a six-week weaning off steroids plan and another month of leave from work.&lt;/li&gt;
+&lt;li&gt;It&#39;s September now and really feels like the whole year is lost to illness. At some point in October when I&#39;m done with steroids I&#39;ll be able to get the covid jab and if it doesn&#39;t send me to hospital then there&#39;s hope I&#39;ll start having a normal life again.&lt;/li&gt;
+&lt;li&gt;I&#39;m not holding my breath.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Wed, 06 Sep 2023 20:00:00 +0000</pubDate>
+      <dc:creator>Jessica Lord</dc:creator>
+      <guid>https://jlord.us/posts/2023-34/</guid>
+    </item>
+    <item>
+      <title>2023 35wk</title>
+      <link>https://jlord.us/posts/2023-35/</link>
+      <description>&lt;ul&gt;
+&lt;li&gt;I flew to Georgia on a booked-last-minute flight now that I&#39;m done with appointments for 6 weeks, to see my family, my brand new niece and to not be so alone when weaning-off steroids and in general. This trip has been long delayed because of—&lt;em&gt;waves hands&lt;/em&gt;—everything.&lt;/li&gt;
+&lt;li&gt;I upgraded my flight because I&#39;m freaking out about covid and wanted to share air with fewer people, even though I&#39;d be masking no matter what, of course. 4 of the 6 friends I&#39;ve seen in the last couple of months have gotten covid again recently. I&#39;m not loving that data point!&lt;/li&gt;
+&lt;li&gt;I forgot to calculate the impact of timezones and a 29-hour travel day with my steroid plan. Had a wonky first two days but got on new sleep and steroid schedule without too much difficulty.&lt;/li&gt;
+&lt;li&gt;At 39.99 years of age my mother drove me to the DMV to get my drivers license. I was 12 days shy of it being so expired that Georgia would make me start over with written and driving tests and I don&#39;t even know who drives on what side of the road anymore so it&#39;s great I avoided being asked!&lt;/li&gt;
+&lt;li&gt;I didn&#39;t get covid from the flight or the DMV!&lt;/li&gt;
+&lt;li&gt;It is &lt;strong&gt;so, so, so, so, so very good to be around people&lt;/strong&gt;. My brother and sister in law are two of my favorite people, too. Also, it&#39;s so good to be eating &lt;a href=&quot;https://www.instagram.com/stories/highlights/17845752009059652/&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;boiled peanuts&lt;/a&gt; again.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Wed, 06 Sep 2023 20:00:00 +0000</pubDate>
+      <dc:creator>Jessica Lord</dc:creator>
+      <guid>https://jlord.us/posts/2023-35/</guid>
     </item>
   </channel>
 </rss>
