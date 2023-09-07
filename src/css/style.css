@@ -245,6 +245,7 @@ ul.book-shelf-container  {
 
 img.book {
   max-width: 134px;
+  height: auto;
 }
 
 .three-imgs {
