@@ -6,7 +6,9 @@ Books I've read this year so far. See my [pages for 2019 and on](/../books) or s
 
 <h2 id="book-shelf">Shelf</h2>
 
-<ul class="book-shelf-container">
+OooOOoOooooo I haven't read any yet this year! To be updated when I do!
+
+<!-- <ul class="book-shelf-container">
   {%- for book in current_books -%}
     <li><a href="{{ book.GoodreadsURL }}">
       <img class="book" src="{{ book.CoverURL }}">
@@ -31,4 +33,4 @@ Books I've read this year so far. See my [pages for 2019 and on](/../books) or s
       {%- endfor -%}
     </tbody>
   </table>
-</div>
+</div> -->
