@@ -53,8 +53,8 @@ body {
 h1 {
   display: inline-block;
   font-size: 64px;
-  font-weight: 600;
-  font-style: italic;
+  font-weight: 400;
+  /* font-style: italic; */
   /* TODO scale size */
 }
 
@@ -66,6 +66,7 @@ h4 {
   color: var(--foreground);
 }
 
+h1,
 h2,
 h3,
 h4 {
