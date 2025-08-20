@@ -27,10 +27,10 @@ x* {
     --secondary:    #daff0a;
     --muted:        #526099;
     */
-    --foreground:   #004580;
-    --background:   #fff2e2;
-    --primary:      #357efc;
-    --secondary:    #ffdd0a;
+    --foreground:   #0f3905;
+    --background:   #faf7f3;
+    --primary:      #0f3905;
+    --secondary:    #c4fbcb;
     --spacing-s:    8px;
     --spacing-m:    24px;
     --spacing-l:    32px;
@@ -53,7 +53,7 @@ body {
 h1 {
   display: inline-block;
   font-size: 64px;
-  font-weight: 400;
+  /*font-weight: 400;*/
   /* font-style: italic; */
   /* TODO scale size */
 }
@@ -124,7 +124,7 @@ a:link,
 a:visited {
   color: var(--foreground);
   /* text-decoration-color: var(--foreground); */
-  text-decoration-color: #fc5b35;
+  text-decoration-color: #c4fbcb;
   text-decoration-thickness: .125em;
   text-underline-offset: 3px;
   transition: background 0.2s linear;
