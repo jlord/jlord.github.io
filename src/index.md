@@ -9,12 +9,16 @@ pagination:
 draft: true
 ---
 
-I'm an architect turned engineer and product person. I'm returning to work after a year off to focus on my Long Covid recovery. I love developer tools, civic tech and making the web more approachable. My architect-brain is always thinking about users and I have a bit of an obsession with documentation.
+<span class="mega-text">
+    I'm an architect turned engineer and product person and I'm returning to work after a year off to focus on my Long Covid recovery.
+</span>
+
+I love developer tools, civic tech and making the web more approachable. My architect-brain is always thinking about users and I have a bit of an obsession with documentation. Read more about [my work](/about), [view my CV](/assets/jlord-cv-web.pdf)  or find me on [Bluesky](https://bsky.app/profile/jlord.bsky.social).
 
 <!--[More about me](/about) | [View my CV](/assets/jlord-cv-web.pdf) | [Bluesky](https://bsky.app/profile/jlord.bsky.social)-->
-- [More about my work](/about)
+<!--- [More about my work](/about)
 - [View my CV](/assets/jlord-cv-web.pdf)
-- [Bluesky](https://bsky.app/profile/jlord.bsky.social)
+- [Bluesky](https://bsky.app/profile/jlord.bsky.social)-->
 <!--<small><em>
   <a href="">More about my work</a> | <a href="">CV.pdf</a> | <a href="">Bluesky</a>
 </small></em>-->

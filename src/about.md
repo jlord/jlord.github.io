@@ -9,7 +9,7 @@ I'm an architect turned developer and product manager, which isn't as odd as it 
 </span>
 
 - [View my CV](/assets/jlord-cv-web.pdf)
-- [My Speaking history](/speaking)
+- [My speaking history](/speaking)
 - Get in touch: jess dot lord at gmail dot com
 <!--- <a href="mailto:jess.lord@gmail.com">Get in touch</a>-->
 
