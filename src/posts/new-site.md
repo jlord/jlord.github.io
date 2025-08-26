@@ -2,7 +2,7 @@
 layout: posts.njk
 title: New Site, Simple Site
 date: 2023-04-12
-tags: web development
+tags: ["changelog"]
 draft: false
 ---
 

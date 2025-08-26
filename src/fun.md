@@ -7,6 +7,7 @@ tags: pages
 I like to make things and track things.
 
 - This site's [colophon](/colophon).
+- Sometimes I write [words about tech and web dev](/dev).
 - Things I [like](/likes).
 - Salty, old [letters](/letters).
 - Things I bought that were [rubbish](/rubbish).

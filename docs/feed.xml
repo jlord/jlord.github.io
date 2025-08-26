@@ -7,12 +7,12 @@
     <description>What I write and put onto the internet.</description>
     <language>en</language>
     <item>
-      <title>Essential Electron</title>
+      <title>Creating Essential Electron</title>
       <link>https://jlord.us/posts/essential-electron/</link>
-      <description>&lt;p&gt;I challenged myself to test out an idea for a informational site on a technical thing, Electron, that tried to be as concise and plainly worded as I could get it. So here&#39;s &lt;a href=&quot;http://jlord.us/essential-electron&quot;&gt;Essential Electron&lt;/a&gt;, something I&#39;ll keep tweaking!&lt;/p&gt;
+      <description>&lt;p&gt;I challenged myself to test out an idea for a informational site on a technical thing, Electron, that tried to be as concise and plainly worded as I could get it. So here&#39;s &lt;a href=&quot;https://jlord.github.io/essential-electron&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Essential Electron&lt;/a&gt;, something I&#39;ll keep tweaking!&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/1305617/17867404/3e699c20-685f-11e6-9303-c98862a0540a.png&quot; alt=&quot;Essential Electron screenshot&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Technical documentation can be long, jargon-heavy and hard to know where to begin with. I think having detailed documentation is good in general, but I felt there was a place for something simpler and took you from top to bottom on the topic in one go.&lt;/p&gt;
-&lt;p&gt;I set out last week to try and see what this idea might look like, which resulted in &lt;a href=&quot;http://jlord.us/essential-electron&quot;&gt;Essential Electron&lt;/a&gt;. It was an interesting challenge because I had to think about everything I wrote: is this &lt;em&gt;essential&lt;/em&gt;, is this a new word or concept worth learning or is it jargon that can be expanded? And cut, cut, cut. I tried to use these guidelines:&lt;/p&gt;
+&lt;p&gt;I set out last week to try and see what this idea might look like, which resulted in &lt;a href=&quot;http://jlord.github.io/essential-electron&quot;&gt;Essential Electron&lt;/a&gt;. It was an interesting challenge because I had to think about everything I wrote: is this &lt;em&gt;essential&lt;/em&gt;, is this a new word or concept worth learning or is it jargon that can be expanded? And cut, cut, cut. I tried to use these guidelines:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Main section should be 2-3 sentences.&lt;/li&gt;
 &lt;li&gt;New concepts/words defined.&lt;/li&gt;
@@ -23,7 +23,7 @@
 &lt;p&gt;I wanted to take people through the flow of learning what Electron is, what development is like and how to get started, while remaining high-level. Someone should be able to go through each of the sections and only read the large text and still get a good sense of what Electron is. If a word or concept is new they can check the definitions. If a particular section is of interest they can use the resources to get more information.&lt;/p&gt;
 &lt;p&gt;I pulled and tweaked some graphics from a previous workshop I&#39;d done to help illustrate this points. I&#39;m pretty happy with the experiment though I have some more ideas and will keep refining this. Hope it turns out useful to some!&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Site: &lt;a href=&quot;http://jlord.us/essential-electron&quot;&gt;jlord.us/essential-electron&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Site: &lt;a href=&quot;https://jlord.github.io/essential-electron&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;jlord.computer/essential-electron&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Repository: &lt;a href=&quot;https://github.com/jlord/essential-electron&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;gh/jlord/essential-electron&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
